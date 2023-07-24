@@ -1,0 +1,10 @@
+name: chem_quest
+title:
+username: remylegoff
+account: remylegoff
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9499376
+bundleId: 7490809
+url: https://remylegoff.shinyapps.io/chem_quest/
+version: 1
