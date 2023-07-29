@@ -165,7 +165,7 @@ server = function(input, output, session) {
   }) %>%
     bindEvent(input$save_unrecovered)
   
-  session$onSessionEnded(function() {
-    stopApp()
-  })
+  # session$onSessionEnded(function() {
+  #   stopApp()
+  # })
 }
